@@ -307,16 +307,16 @@
 			</div>
 		</div>
 	</div>
-	<div class="nojavascript">您的浏览器版本太低或禁用了javascript，无法正常浏览本页面</div>
-	<div class="write-tip">
+	<!-- <div class="nojavascript">您的浏览器版本太低或禁用了javascript，无法正常浏览本页面</div> -->
+	<!-- <div class="write-tip">
 		<span class="showtip">小提示：点击文字可以进行编辑，点击右下角心形可以跳跃浏览</span>
 		<span style="display:none">小提示：编辑完成后点击保存修改，发送给你的亲亲开始表白吧</span>
 		<button id="write-submit">保存修改</button>
-	</div>
+	</div> -->
 	<!-- <p><a href="saveme.mp3">点击此处播放</a></p> -->
 	<!-- <object height="50" width="100" data="./music/saveme.mp3"></object> -->
 	<!-- <embed height="50" width="100" src="./music/saveme.mp3">		 -->
-	<div class="write-ok">
+	<!-- <div class="write-ok">
 		<div class="write-box">
 			<h2>还差一步即可生成表白页面</h2>
 			<!-- <p id="write-mp3">自定义背景音乐：<span id="text-music" contenteditable="true">http://<?php echo $_SERVER['HTTP_HOST']; ?>/love/music/saveme</span><i></i>.mp3</p>
@@ -328,7 +328,7 @@
 				<div class="bdsharebuttonbox"><a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a><a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a><a href="#" class="bds_renren" data-cmd="renren" title="分享到人人网"></a><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a><a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"></a><a href="#" class="bds_tieba" data-cmd="tieba" title="分享到百度贴吧"></a><a href="#" class="bds_copy" data-cmd="copy" title="分享到复制网址"></a><a href="#" class="bds_more" data-cmd="more"></a></div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 
 	<audio id="bgmMusic" src="saveme.mp3" autoplay="autoplay" loop preload="auto" type="audio/mp3"></audio>
     
