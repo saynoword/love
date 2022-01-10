@@ -418,13 +418,10 @@
 		</div>
 	</div>
 
-	<!-- <embed src="saveme.mp3" hidden="true" autostart="true" loop="true"> -->
-	<audio src="saveme.mp3" autoplay="true" playcount="-1"></audio>
-	<!-- <audio id="bgmMusic" src="saveme.mp3" autoplay="autoplay" loop preload="auto" type="audio/mp3"></audio> -->
+	<audio src="music/qilixiang.mp3" autoplay="true" playcount="-1"></audio>
     
 	<script src="http://libs.baidu.com/jquery/1.8.3/jquery.min.js"></script>
 	<script src="js/all.min.js"></script>
 	<script src="js/love.min.js"></script>
-    <!-- <div class="mPower"><span id="on" title="点击暂停"></span><span id="off" title="点击播放"></span></div> -->
 </body>
 </html>
